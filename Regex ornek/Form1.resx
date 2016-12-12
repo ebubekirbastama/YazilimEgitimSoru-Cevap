@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>code]H1*M70*M20*TRIBUNE*ZX4618*N1*D2*M15*X1490Y745*D1*X1490Y687*D2*X1471Y745*D1*X1510Y745*D2*X1523Y687*D1*X1523Y745*X1548Y745*X1561Y738*X1561Y721*X1555Y715*X1523Y715*D2*X1544Y715*D1*X1562Y687*D2*X1579Y745*D1*X1579Y687*D2*X1593Y687*D1*X1593Y745*X1614Y745*X1623Y736*X1623Y727*X1597Y718*X1622Y718*X1632Y707*X1632Y696*X1623Y687*X1593Y687*D2*X1648Y745*D1*X1648Y696*X1657Y687*X1678Y687*X1687Y696*X1687Y745*D2*X1703Y687*D1*X1703Y745*X1742Y687*X1742Y745*D2*X1792Y687*D1*X1756Y687*X1756Y745*X1792Y745*D2*X1756Y718*D1*X1778Y718*D2*X1837Y694*D1*X1845Y687*X1863Y687*X1873Y697*X1873Y715*X1862Y726*X1844Y726*X1844Y745*X1873Y745*D2*X1957Y736*D1*X1948Y745*X1925Y745*X1916Y736*X1916Y696*X1925Y687*X1948Y687*X1957Y696*D2*X2007Y687*D1*X1971Y687*X1971Y745*X2007Y745*D2*X1971Y718*D1*X1993Y718*D2*X2021Y687*D1*X2021Y745*X2046Y745*X2059Y738*X2059Y721*X2052Y715*X2021Y715*D2*X2102Y687*D1*X2102Y745*X2123Y745*X2132Y736*X2132Y727*X2107Y718*X2132Y718*X2142Y707*X2142Y696*X2132Y687*X2102Y687*D2*X2149Y687*D1*X2171Y745*X2193Y687*D2*X2157Y706*D1*X2185Y706*D2*X2202Y745*D1*X2224Y718*X2224Y687*D2*X2246Y745*D1*X2224Y718*D2*X2254Y687*D1*X2276Y745*X2299Y687*D2*X2263Y706*D1*X2290Y706*D2*X2315Y687*D1*X2315Y745*X2354Y687*X2354Y745*D2*X1912Y569*D1*X1902Y588*X1902Y608*X1912Y627*X1931Y627*X1941Y608*X1941Y588*X1931Y569*X1912Y569*D2*X1957Y569*D1*X1957Y627*X1996Y569*X1996Y627*D2*X2038Y569*D1*X2038Y627*X2063Y627*X2076Y620*X2076Y603*X2070Y597*X2038Y597*D2*X2085Y569*D1*X2107Y627*X2130Y569*D2*X2094Y588*D1*X2121Y588*D2*X2185Y618*D1*X2176Y627*X2153Y627*X2143Y618*X2143Y578*X2153Y569*X2176Y569*X2185Y578*D2*X2193Y569*D1*X2215Y627*X2237Y569*D2*X2201Y588*D1*X2229Y588*D2*X2082Y509*D1*X2118Y509*X2099Y491*X2109Y491*X2118Y482*X2118Y461*X2107Y451*X2088Y451*X2079Y460*D2*X2143Y491*D1*X2134Y481*X2134Y460*X2143Y451*X2161Y451*X2170Y460*X2170Y481*X2161Y491*X2143Y491*X2134Y500*X2143Y509*X2161Y509*X2170Y500*X2161Y491*D2*X2052Y380*D1*X2065Y391*X2065Y333*D2*X2108Y391*D1*X2108Y333*X2138Y333*D2*X3190Y623*D1*X3387Y544*X2418Y544*X1449Y544*X885Y544*D2*X786Y53*D1*X792Y1004*D2*X567Y885*D1*X562Y46*D2*X60Y844*D1*X573Y917*X662Y929*X669Y931*X693Y937*X701Y939*X711Y943*X723Y949*X730Y952*X737Y957*X749Y965*X754Y969*X762Y977*X770Y987*X775Y994*X780Y1002*X785Y1014*X789Y1025*X794Y1051*X1022Y996*X1043Y992*X1229Y966*X1394Y951*X1790Y927*X1871Y925*X2233Y926*X3202Y953*X4170Y981*X4520Y991*X4518Y107*X3550Y118*X2581Y130*X2256Y134*X1972Y127*X1908Y125*X1701Y112*X1510Y98*X1059Y69*X824Y53*X791Y52*X634Y47*X561Y47*X437Y51*X374Y55*X268Y65*X277Y180*X280Y283*X280Y300*X279Y320*X276Y348*X273Y362*X271Y372*X268Y386*X264Y396*X261Y403*X257Y413*X252Y422*X246Y431*X238Y440*X230Y448*X219Y457*X210Y464*X195Y473*X178Y481*X172Y484*X156Y490*X150Y492*X136Y495*X124Y498*X107Y500*X73Y504*X49Y506*X58Y708*X60Y844*D2*X13Y885*M14*X521Y957*X522Y946*M15*X521Y957*M14*X567Y964*X653Y975*X679Y982*X687Y985*X701Y991*X710Y996*X716Y1000*X721Y1005*X728Y1011*X732Y1018*X738Y1027*X741Y1034*X747Y1047*X749Y1055*X752Y1063*X755Y1079*X762Y1119*X1033Y1054*X1057Y1049*X1214Y1027*X1398Y1010*X1799Y986*X1873Y984*X2233Y985*X2233Y973*M15*X2233Y985*M14*X3201Y1012*X4169Y1040*X4520Y1050*X4520Y1038*M15*X4520Y1050*M14*X4618Y1047*X4617Y78*X4617Y60*X4518Y59*X4519Y71*M15*X4518Y59*M14*X3550Y71*X2581Y83*X2257Y86*X2257Y98*M15*X2257Y86*M14*X1966Y80*X1910Y77*X1712Y65*X1513Y51*X1062Y22*X839Y7*X793Y4*X635Y0*X560Y0*X446Y4*X371Y8*X225Y21*X238Y181*X241Y269*X241Y286*X239Y317*X238Y334*X236Y346*X234Y358*X232Y367*X228Y380*X223Y392*X219Y399*X214Y406*X206Y415*X199Y422*X193Y427*X186Y432*X175Y438*X160Y445*X151Y449*X138Y453*X127Y457*X107Y461*X90Y464*X55Y468*X0Y472*X11Y696*X11Y709*X13Y885*M15*M0*[/code]</value>
+  </data>
+</root>
